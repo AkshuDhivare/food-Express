@@ -1,0 +1,11 @@
+.inner_img{
+    border-radius: 50px;
+}
+.inner_img:hover{
+    box-shadow: 0 0 10px #000;
+}
+.resturant_detail_left{
+    border-left: 5px solid #000;
+    border-radius: 10px;
+    padding-left: 100px;
+}
