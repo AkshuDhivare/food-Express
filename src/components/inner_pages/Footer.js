@@ -51,28 +51,28 @@ function Footer() {
             </div>
             <div className="col-lg-5  my-2 mb-0">
               <ul className="d-flex mb-0">
-                <li className="px-3">
+                <li className="px-3 footer_link-ul">
                   <Link className="footer_link" to="/">
                     Home
                   </Link>
                 </li>
-                <li className="px-3">
+                <li className="px-3 footer_link-ul">
                   <Link className="footer_link" to="about">
                     About
                   </Link>
                 </li>
 
-                <li className=" px-3">
+                <li className=" px-3 footer_link-ul">
                   <Link className="footer_link " to="resturant">
                     Restaurants
                   </Link>
                 </li>
-                <li className=" px-3">
+                <li className=" px-3 footer_link-ul">
                   <Link className="footer_link " to="contact">
                     Contact
                   </Link>
                 </li>
-                <li className=" px-3">
+                <li className=" px-3 footer_link-ul">
                   <Link className="footer_link " to="cart">
                     <ShoppingCartIcon fontSize="large" />
                   </Link>
