@@ -4,10 +4,10 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./components/inner_pages/Home";
 import About_us from "./components/inner_pages/About_us";
 import Contact_us from "./components/inner_pages/Contact_us";
-import Footer from "./components/Footer";
+import Footer from "./components/inner_pages/Footer";
 import AOS from "aos";
-import "aos/dist/aos.css"; // You can also use <link> for styles
-import Resturant_card from "./components/Resturant_card";
+import "aos/dist/aos.css";
+import Resturant_card from "./components/inner_pages/Resturant_card";
 import Practice from "./components/inner_pages/practice/Practice";
 
 import { ToastContainer, toast } from "react-toastify";

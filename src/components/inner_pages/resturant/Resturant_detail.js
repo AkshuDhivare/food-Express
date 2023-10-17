@@ -114,7 +114,7 @@ function Resturant_detail() {
               <ul className="p-0 m-0">
                 {datas?.cuisines?.map((cuisine, index) => (
                   <div key={index}>
-                    <li> ✅: {cuisine}</li>
+                    <li> ✅ : {cuisine}</li>
                   </div>
                 ))}
               </ul>

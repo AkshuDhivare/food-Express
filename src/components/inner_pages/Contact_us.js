@@ -6,7 +6,6 @@ import CallIcon from "@mui/icons-material/Call";
 import Button from "@mui/material/Button";
 import SweetAlert2 from "react-sweetalert2";
 import Swal from "sweetalert2";
-import cart from "../../images/cart.webp";
 
 function Contact_us() {
   const [form, setForm] = useState({});
